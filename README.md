@@ -17,7 +17,7 @@ We used below algorithms for prediction and getting the best accuracy:
 ### Summary of Results
 Highest accuracy of 95.99% was achieved using two hidden layers and 95.5% using "relu" activation method.
 
-To view the code and graphs accurately, please click here.
+To view the code and graphs accurately, please __[click here.](https://nbviewer.jupyter.org/github/phtelang/Handwritten-Digits-Classifier-using-Neural-Networks/blob/master/Handwritten%20Digit%20Classifier%20using%20Neural%20Networks.ipynb)__
 
 ### Installation
 - Download the .ipynb (Jupyter file).
